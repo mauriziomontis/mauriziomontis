@@ -13,6 +13,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriziomontis)](https://github.com/mauriziomontis/github-readme-stats)
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriziomontis)
+  
+
+ 
+
+## Me and the :computer: 
+- **Competitive Programming**
+	- Python 
+	- EPICS
+  - Virtualization and containers
+	- Minor interests in C & Java
+
+- **Most recent interests**
+	- HTML, CSS and Javascript :white_check_mark:
+	- React with Redux :electron:
+	- NodeJS  
+
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+
+<br/>
+<br/>
+
+
