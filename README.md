@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - **Competitive Programming**
 	- Python 
 	- EPICS
-  - Virtualization and containers
-	- Minor interests in C & Java
+ 	- Virtualization and containers
+  	- Minor interests in C & Java
 
 - **Most recent interests**
 	- HTML, CSS and Javascript :white_check_mark:
