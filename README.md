@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 ## Me and the :computer: 
 - **Competitive Programming**
 	- Python 
-	- EPICS
+	- EPICS framework
  	- Virtualization and containers
+	- Linux OS (RHEL/CentOS fan)
   	- Minor interests in C & Java
 
 - **Most recent interests**
@@ -36,6 +37,8 @@ Here are some ideas to get you started:
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://www.redhat,com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></a></code>
+<code><a href="https://www.centos.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 
