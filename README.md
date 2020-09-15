@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 ## Me and the :computer: 
 - **Competitive Programming**
-	- Python 
-	- EPICS framework
+	- Python :snake:
+	- EPICS framework 
  	- Virtualization and containers
-	- Linux OS (RHEL/CentOS fan)
+	- Linux OS (RHEL/CentOS fan :two_hearts: )
   	- Minor interests in C & Java
 
-- **Most recent interests**
-	- HTML, CSS and Javascript :white_check_mark:
+- **Most recent interests** :nerd_face:
+	- HTML, CSS and Javascript 
 	- React with Redux :electron:
 	- NodeJS  
 
