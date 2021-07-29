@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriziomontis)](https://github.com/mauriziomontis/github-readme-stats)
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriziomontis)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauriziomontis) -->
   
 
  
@@ -42,7 +42,10 @@ Here are some ideas to get you started:
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 
-<br/>
-<br/>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriziomontis&layout=compact&hide=html&langs_count=10" alt="mauriziomontis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriziomontis&show_icons=true" alt="mauriziomontis" /></p>
+
+<br/>
+<br/>
