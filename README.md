@@ -22,30 +22,56 @@ Here are some ideas to get you started:
  
 
 ## Me and the :computer: 
-- **Competitive Programming**
+- **Most recent interests** :nerd_face:
 	- Python :snake:
 	- EPICS framework 
  	- Virtualization and containers
-	- Linux OS (RHEL/CentOS fan :two_hearts: )
-  	- Minor interests in C & Java
-
-- **Most recent interests** :nerd_face:
-	- HTML, CSS and Javascript 
-	- React with Redux :electron:
-	- NodeJS  
+	- Linux OS (RPM-based fan :two_hearts: )
+  	- AI Songwriter 😄
 
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.redhat,com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></a></code>
-<code><a href="https://www.centos.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+### 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauriziomontis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriziomontis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="190" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mauriziomontis&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
+</div>
 
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriziomontis&layout=compact&hide=html&langs_count=10" alt="mauriziomontis" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriziomontis&show_icons=true" alt="mauriziomontis" /></p>
+<br clear="both">
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rockylinux/rockylinux-original.svg" height="40" alt="rocky linux logo"  />
+  <img width="12" />
+   <img src="https://epics-controls.org/wp-content/uploads/2018/07/EPICS_black_blue_logo_rgb_crop_web_v03.svg" height="40" alt="EPICS logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />	
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mauriziomontis&left_text=hits"  />
+
+###
